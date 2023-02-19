@@ -19,18 +19,23 @@ def me():
 ```
 
 
+
+
+
 <p>
 Get in touch with me over:
 </p>
+<img src="https://media.giphy.com/media/O1OY9qvJQqzcwtwoor/giphy.gif" align="right" width="250" />
 
-<p>
-  <a href="https://discordapp.com/users/744526711047192656">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
- <a href="https://www.linkedin.com/in/yadu-tv/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
- </a>
- <a href="https://www.twitter.com/yadukrishnantv">
-    <img src="https://skillicons.dev/icons?i=twitter" />
- </a>
-</p>
+```python
+Discord:
+oat#3633
+```
+```python
+LinkedIn:
+https://www.linkedin.com/in/yadu-tv/
+```
+```python
+Twitter:
+https://www.twitter.com/yadukrishnantv/
+```
