@@ -1,5 +1,5 @@
 <h1> Hi, I'm Yadu Krishnan! <img src="https://media.giphy.com/media/UaoxTrl8z1wre/giphy.gif" width="50" /></h1>
-<img src="https://media.giphy.com/media/qFrWCKBNGdH4IT1iNe/giphy.gif" align="right" width="230">
+<img src="https://media.giphy.com/media/qFrWCKBNGdH4IT1iNe/giphy.gif" align="right" width="200">
 
 <p>
  <b> A little about me:</b>
@@ -16,15 +16,14 @@ def me():
                         highschool(2019-2021): "Sri Chaithany Techno School, Banglore",
                         undergraduate (current): "Vellore Institute of Technology, Chennai",
   }
-}
 ```
 
 
-<p align="center">
-Get in touch with me over
+<p>
+Get in touch with me over:
 </p>
 
-<p align="center">
+<p>
   <a href="https://discordapp.com/users/744526711047192656">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
