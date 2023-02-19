@@ -1,6 +1,9 @@
 ### Hi there 👋
-![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp)__
+<p align="center">
+![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp)
+<br/>
 Extremely active on ![My Skills](https://skillicons.dev/icons?i=discord)
+ </p>
 <!--
 **yadu-tv/yadu-tv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
