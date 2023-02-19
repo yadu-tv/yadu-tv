@@ -13,7 +13,7 @@ def me():
   speak: [Malayalam, English, Tamil, Hindi]
   code: [HTML, CSS, JS, NodeJS, C, Cpp, Java, Python, MySql]
   educational-experience: {
-     highschool(2019-2021): "Sri Chaithany Techno School, Banglore",
+     highschool(2019-2021): "Sri Chaithanya Techno School, Banglore",
      undergraduate (current): "Vellore Institute of Technology, Chennai",
   }
 ```
