@@ -18,10 +18,6 @@ def me():
   }
 ```
 
-
-
-
-
 <p>
 Get in touch with me over:
 </p>
