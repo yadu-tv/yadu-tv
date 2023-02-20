@@ -11,7 +11,7 @@ def me():
   pronouns: he | him
   age: 19
   speak: [Malayalam, English, Tamil, Hindi]
-  code: [HTML, CSS, JS, NodeJS, C, Cpp, Java, Python, MySql]
+  code: [HTML, NodeJS, C, Cpp, Java, Python, MySql]
   educational-experience: {
      highschool (2019-2021): "Sri Chaithanya Techno School, Banglore",
      undergraduate (current): "Vellore Institute of Technology, Chennai",
