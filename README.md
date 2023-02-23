@@ -14,7 +14,7 @@ def me():
   tools: [vscode, spotify]
   educational-experience: {
      highschool (2019-2021): "Sri Chaithanya Techno School, Bengaluru",
-     undergraduate (2021-2025): "Vellore Institute of Technology, Chennai",
+     undergraduate (2021-current): "Vellore Institute of Technology, Chennai",
   }
 ```
 
