@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+little+about+me:&duration=5000)](https://git.io/typing-svg)
 
 
-<img src="https://media.giphy.com/media/gEEwSyfpl1ai6HroEv/giphy.gif" align="right" width="250" />
+<img src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" align="right" width="250" />
 
 ```python
 def me():
