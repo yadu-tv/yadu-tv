@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+little+about+me:&duration=5000)](https://git.io/typing-svg)
 
-
-<img src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" align="right" width="250" />
-
 ```python
 def me():
   pronouns: he | him
@@ -20,6 +17,7 @@ def me():
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Get+in+touch+with+me+over:&duration=5000)](https://git.io/typing-svg)
+
 <img src="https://media.giphy.com/media/O1OY9qvJQqzcwtwoor/giphy.gif" align="right" width="250" />
 
 ```python
