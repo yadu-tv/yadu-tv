@@ -1,5 +1,5 @@
 <h1> Hi, I'm Yadu Krishnan! <img src="https://media.giphy.com/media/UaoxTrl8z1wre/giphy.gif" width="50" /></h1>
-<img src="https://giphy.com/gifs/collaboration-cultivate-we-can-do-this-gF2m2JOyGReppog8hU" align="right" width="250">
+<img src="/bulb.gif" align="right" width="250">
 
 <p>
  <b> A little about me:</b>
