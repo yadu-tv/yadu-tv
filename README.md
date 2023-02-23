@@ -1,8 +1,9 @@
 <h1> Hi, I'm Yadu Krishnan! <img src="https://media.giphy.com/media/UaoxTrl8z1wre/giphy.gif" width="50" /></h1>
 
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+little+about+me:&duration=5000)](https://git.io/typing-svg)
+
+
+<img src="https://media.giphy.com/media/gEEwSyfpl1ai6HroEv/giphy.gif" align="right" width="250" />
 
 ```python
 def me():
