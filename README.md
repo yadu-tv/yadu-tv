@@ -3,6 +3,7 @@
 <p>
  <b> A little about me:</b>
 </p>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" align="right"/>
 
 
 ```python
