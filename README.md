@@ -1,10 +1,8 @@
 <h1> Hi, I'm Yadu Krishnan! <img src="https://media.giphy.com/media/UaoxTrl8z1wre/giphy.gif" width="50" /></h1>
 
-<p>
- <b> A little about me:</b>
-</p>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" align="right"/>
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+little+about+me:&duration=5000)](https://git.io/typing-svg)
 
 ```python
 def me():
@@ -18,9 +16,7 @@ def me():
   }
 ```
 
-<p>
-Get in touch with me over:
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Get+in+touch+with+me+over:&duration=5000)](https://git.io/typing-svg)
 <img src="https://media.giphy.com/media/O1OY9qvJQqzcwtwoor/giphy.gif" align="right" width="250" />
 
 ```python
