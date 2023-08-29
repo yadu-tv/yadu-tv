@@ -7,12 +7,13 @@ def me():
   pronouns: he | him
   age: 19
   speak: [Malayalam, English, Tamil, Hindi]
-  interest: [coding, netflix, tech, linux, apple ecosystem]
-  code: [HTML, NodeJS, C, Cpp, Java, Python, MySql]
+  interest: [netflix, linux, apple ecosystem]
+  code: [HTML, NodeJS, ReactJS, C, Cpp, Java, Python, MySql]
   tools: [vscode, spotify]
   educational-experience: {
-     highschool (2019-2021): "Sri Chaithanya Techno School, Bengaluru",
-     undergraduate (2021-current): "Vellore Institute of Technology, Chennai",
+    highschool (2019-2021): "Sri Chaithanya Techno School, Bengaluru",
+    undergraduate (2021-current): "Vellore Institute of Technology, Chennai",
+    intern (aug 2023-current): "Loominate Pte Ltd, Singapore"
   }
 ```
 
