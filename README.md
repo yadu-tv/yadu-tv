@@ -1,4 +1,4 @@
-<h1> Hi, I'm Yadu Krishnan! <img src="https://media.giphy.com/media/UaoxTrl8z1wre/giphy.gif" width="50" /></h1>
+<h1> Hi, I'm Yadu Krishnan! </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+little+about+me:&duration=5000)](https://git.io/typing-svg)
 
