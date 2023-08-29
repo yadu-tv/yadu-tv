@@ -23,7 +23,7 @@ def me():
 
 ```python
 Discord:
-oat#3633
+just.oat
 ```
 ```python
 LinkedIn:
