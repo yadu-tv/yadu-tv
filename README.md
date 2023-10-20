@@ -8,7 +8,7 @@ def me():
   age: 20
   speak: [Malayalam, English, Tamil, Hindi]
   interest: [netflix, linux, apple ecosystem]
-  code: [HTML, NodeJS, ReactJS, TypeScript, C, Cpp, Java, Python, MySql]
+  code: [HTML, NodeJS, ReactJS, TypeScript, C, Cpp, Java, Python, MySql, Sklearn, Tensorflow]
   educational-experience: {
     highschool (2019-2021): "Sri Chaithanya Techno School, Bengaluru",
     undergraduate (2021-ongoing): "Vellore Institute of Technology, Chennai",
