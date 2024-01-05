@@ -8,27 +8,18 @@ def me():
   age: 20
   speak: [Malayalam, English, Tamil, Hindi]
   interest: [netflix, linux, apple ecosystem]
-  code: [HTML, NodeJS, ReactJS, TypeScript, C, Cpp, Java, Python, MySql, Sklearn, Tensorflow]
   educational-experience: {
-    highschool (2019-2021): "Sri Chaithanya Techno School, Bengaluru",
-    undergraduate (2021-ongoing): "Vellore Institute of Technology, Chennai",
-    intern (aug 2023-ongoing): "Loominate Pte Ltd, Singapore"
+    highschool (2019 - 2021): "Sri Chaithanya Techno School, Bengaluru",
+    intern (aug 2023 - dec 2023): "Loominate Pte Ltd, Singapore",
+    undergraduate (2021 - ongoing): "Vellore Institute of Technology, Chennai"
   }
 ```
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+tech+stacks:&duration=5000)](https://git.io/typing-svg)
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Get+in+touch+with+me+over:&duration=5000)](https://git.io/typing-svg)
-
-<img src="https://media.giphy.com/media/O1OY9qvJQqzcwtwoor/giphy.gif" align="right" width="250" />
-
-```python
-Discord:
-just.oat
-```
-```python
-LinkedIn:
-https://www.linkedin.com/in/yadu-tv/
-```
-```python
-Twitter:
-https://www.twitter.com/yadukrishnantv/
-```
+  
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"  />
+  
