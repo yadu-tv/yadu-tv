@@ -11,7 +11,7 @@ def me():
   educational-experience: {
     software_developer (jul 2024 - present): "Seedefy Pte Ltd, Singapore",
     undergraduate (2021 - present): "Vellore Institute of Technology, Chennai",
-    intern (aug 2023 - dec 2023): "Loominate Pte Ltd, Singapore",
+    full_stack_developer_intern (aug 2023 - dec 2023): "Loominate Pte Ltd, Singapore",
     highschool (2019 - 2021): "Sri Chaithanya Techno School, Bengaluru",
   }
 ```
