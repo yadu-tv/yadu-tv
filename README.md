@@ -5,13 +5,14 @@
 ```python
 def me():
   pronouns: he | him
-  age: 20
+  age: 21
   speak: [Malayalam, English, Tamil, Hindi]
   interest: [netflix, linux, apple ecosystem]
   educational-experience: {
-    highschool (2019 - 2021): "Sri Chaithanya Techno School, Bengaluru",
+    software developer (jul 2024 - present): "Seedefy Pte Ltd, Singapore",
+    undergraduate (2021 - present): "Vellore Institute of Technology, Chennai",
     intern (aug 2023 - dec 2023): "Loominate Pte Ltd, Singapore",
-    undergraduate (2021 - ongoing): "Vellore Institute of Technology, Chennai"
+    highschool (2019 - 2021): "Sri Chaithanya Techno School, Bengaluru",
   }
 ```
 
